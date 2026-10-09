@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador de Tareas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="theme-toggle">
+        <button id="toggle-theme-btn">Cambiar Tema</button>
+    </div>
+
+    <div id="task-manager">
+        <h1>Administrador de tareas</h1>
+
+        <form id="task-form">
+            <input type="text" id="task-input" placeholder="Ingresar nueva tarea" required>
+            <button type="submit">Agregar Tarea</button>
+        </form>
+
+        <ul id="task-list">
+            <li>
+                Contenido de tarea
+                <span class="delete-btn">❌</span>
+                <span class="edit-btn">✏️</span>
+            </li>
+        </ul>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
