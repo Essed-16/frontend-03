@@ -27,7 +27,7 @@ Repositorio correspondiente a las actividades de la asignatura Frontend Develope
 
 * [https://Essed-16.github.io/frontend-03/SEMANA03/TAREA09/1](https://Essed-16.github.io/frontend-03/SEMANA03/TAREA09/1)
 * [https://Essed-16.github.io/frontend-03/SEMANA03/TAREA09/2](https://Essed-16.github.io/frontend-03/SEMANA03/TAREA09/2)
-* 
+  
 ---
 
 ### LINK del Proyecto Final:
