@@ -32,4 +32,4 @@ Repositorio correspondiente a las actividades de la asignatura Frontend Develope
 
 ### LINK del Proyecto Final:
 
-[https://Essed-16.github.io/frontend-03/INFORME/](https://Essed-16.github.io/frontend-03/SEMANA03/INFORME/)
+[https://Essed-16.github.io/frontend-03/INFORME/rojasmorilloedsonaldair](https://Essed-16.github.io/frontend-03/SEMANA03/INFORME/rojasmorilloedsonaldair)
